@@ -1,0 +1,3 @@
+hello!
+ docker cp dummy/. thirsty_wescoff:/test
+ docker cp thirsty_wescoff:/test dummy/
